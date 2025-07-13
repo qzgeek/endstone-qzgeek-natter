@@ -1,0 +1,11 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "endstone-qzgeek-natter"
+version = "0.1.0"
+description = "方便Endstone服务器玩家跳转Natter端口"
+
+[project.entry-points."endstone"]
+qzgeek-natter = "endstone_qzgeek_natter:NatterMain"
