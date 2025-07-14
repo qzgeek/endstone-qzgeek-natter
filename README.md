@@ -1,4 +1,4 @@
-![Natter](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAIxgmh0ZEnvGAT7cljyQ6VpQxzGIg17AAIOGAACeIOoV2ZGxYdD9pv-NgQ.png)
+![新图网_NAT网关_ixintu.com.png](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAIxgmh0ZEnvGAT7cljyQ6VpQxzGIg17AAIOGAACeIOoV2ZGxYdD9pv-NgQ.png)
 # ✨EndStone-QZGeek-Natter✨
 
 让你的 Minecraft 服务器玩家 **丝滑直连**，告别穿透延迟！🚀 。
