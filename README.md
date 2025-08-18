@@ -1,4 +1,4 @@
-![Natter](http://api1.qzgeek.cn/i/2025/08/17/68a1f412188ad.png)
+![Natter](http://api1.qzgeek.cn/i/2025/08/18/68a2ac15046c5.png)
 # ✨EndStone-QZGeek-Natter✨
 
 让你的 Minecraft 服务器玩家 **丝滑直连**，告别穿透延迟！🚀 。
